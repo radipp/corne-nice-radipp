@@ -43,7 +43,7 @@
         };
 
         cmb_esc {
-            bindings = <&kp LC(LEFT_SHIFT)>;
+            bindings = <&kp ESCAPE>;
             key-positions = <1 2>;
             layers = <0>;
         };
@@ -165,7 +165,7 @@
             key-positions = <28 31>;
         };
 
-        cmb_dash_1 {
+        cmb_dash {
             bindings = <&kp MINUS>;
             key-positions = <15 20>;
         };
